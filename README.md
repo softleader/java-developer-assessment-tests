@@ -6,8 +6,8 @@
 
 ### GitHub
 
-1. 申請一個 GitHub 帳號: [Join GitHub](https://github.com/join)
-2. 將註冊的帳號或 email 提供給 RD 成員，開通 SoftLeader private repository 存取權限。
+1. 必須擁有自己的 GitHub 帳號: [Join GitHub](https://github.com/join)
+2. 確保帳號可存取 SoftLeader private repository，沒有的話請將註冊的帳號或 email 提供給 RD 成員開通。
 
 ### Connecting to GitHub with SSH
 
