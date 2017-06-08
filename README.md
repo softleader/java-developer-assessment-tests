@@ -11,9 +11,9 @@
 
 ### Connecting to GitHub with SSH
 
-依照 [Connecting to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/) 的步驟設定。
+在測驗前，依照 [Connecting to GitHub with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/) 的步驟設定。
 
-## 操作練習
+## Git 操作
 
 常見的免費管理工具有:
 
@@ -22,13 +22,13 @@
 
 但仍十分建議以 command line 練習過 [連猴子都能懂的Git入門指南](https://backlogtool.com/git-guide/tw/) 中的 *入門篇* 及 *進階篇* (系統請選擇 *主控台*)。
 
-### 評量作答方式
+### 評量方式
 
 評量試題的 private repository url 將會在測驗期間公布，同事們在取得題目後，作答前**務必**先建立自己的 branch，名稱為: *員工編號*-*Email帳號*, 如: `33-matt.ho`，也**務必**確保答案是 commit 在自己的 branch 中：
 
 ![](branches.png)
 
-### 使用指令範例
+### 指令範例
 
 首先將考試題目 clone 到本機上：
 
