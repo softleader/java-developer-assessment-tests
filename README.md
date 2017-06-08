@@ -7,7 +7,7 @@
 ### GitHub
 
 1. 必須擁有自己的 GitHub 帳號: [Join GitHub](https://github.com/join)
-2. 確保帳號可存取 SoftLeader private repository，沒有的話請將註冊的帳號或 email 提供給 RD 成員開通。
+2. 確保帳號可存取 SoftLeader private repository，或請將註冊的帳號或 email 提供給 RD 成員開通。
 
 ### Connecting to GitHub with SSH
 
@@ -24,7 +24,7 @@
 
 ### 評量作答方式
 
-評量試題的 private repository url 將會在測驗期間公布，同事們在作答前，**務必**先建立自己的 branch，名稱為: *員工編號*-*Email帳號*, 如: `33-matt.ho`，也**務必**確保答案是 commit 在自己的 branch 中：
+評量試題的 private repository url 將會在測驗期間公布，同事們在取得題目後，作答前**務必**先建立自己的 branch，名稱為: *員工編號*-*Email帳號*, 如: `33-matt.ho`，也**務必**確保答案是 commit 在自己的 branch 中：
 
 ![](branches.png)
 
