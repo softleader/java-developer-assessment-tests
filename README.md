@@ -24,9 +24,11 @@
 
 ### 評量方式
 
-評量試題的 private repository url 將會在測驗期間公布，同事們在取得題目後，作答前**務必**先建立自己的 branch，名稱為: *員工編號*-*Email帳號*, 如: `33-matt.ho`，也**務必**確保答案是 commit 在自己的 branch 中：
+評量試題的 private repository url 將會在測驗期間公布，同事們在取得題目後，**務必**先建立自己的 branch 再開始作答，也**務必**確保答案是 commit 在自己的 branch 中。
 
 ![](branches.png)
+
+Branch 名稱限定為: *員工編號*-*Email帳號*, 如: `33-matt.ho`
 
 ### 指令範例
 
