@@ -35,7 +35,7 @@ Branch 名稱限定為: *員工編號*-*Email帳號*, 如: `33-matt.ho`
 首先將考試題目 clone 到本機上
 
 ```
-git clone git@github.com:softleader/...git
+git clone https://github.com/softleader/assessment.git
 ```
 
 建立並切換到自己的 branch
